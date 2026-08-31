@@ -37,4 +37,4 @@ Open `index.html` in a browser, or use the VS Code Live Server extension.
 
 Credits:  
 Front-end & Founder: [@itsmeleju](https://github.com/itsmeleju) (Leju George Jacob)   
-Back-end & Software Developer: A.K.I (Akhil Raju)
+Back-end Software Developer & Co-Founder: A.K.I (Akhil Raju)
